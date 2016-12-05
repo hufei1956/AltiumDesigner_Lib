@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\data\4_Project\RCL_lib.LibPkg
+[Project2]
+ProjectPath=..\data\4_Project\Diode_Mos_Power_lib.LibPkg
+[Project3]
+ProjectPath=..\data\4_Project\Logic_Com_Amp_Opt_ADDA_MosDriver_lib.LibPkg
+[Project4]
+ProjectPath=..\data\4_Project\Delay_Sensor_lib.LibPkg
+[Project5]
+ProjectPath=..\data\4_Project\MCU_FLASH_Audio_Video_lib.LibPkg
+[Project6]
+ProjectPath=..\data\4_Project\Moudle_lib.LibPkg
+[Project7]
+ProjectPath=..\data\4_Project\SW_CON_Xtal_lib.LibPkg
